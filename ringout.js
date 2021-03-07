@@ -1,3 +1,4 @@
+alert("Script running ....");
 const RingCentral = require('@ringcentral/sdk').SDK
 
 RECIPIENT = '+442045326829'
